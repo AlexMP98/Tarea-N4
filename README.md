@@ -30,6 +30,7 @@ Capítulo 8
 ![Mapa cap 8.5-8.9](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Fun.C%20Tarea%204%20resumen%20cap%208.jpg)
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**   
+
 Capítulo 7   
 ![1]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/1.png )
 
