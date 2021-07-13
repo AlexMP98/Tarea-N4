@@ -28,7 +28,7 @@ Capítulo 7
 ![27]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/27.png )     
 ![29]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/29.png )     
 
-**4. VIDEO**
+**4. VIDEO**      
 Link del video : https://youtu.be/Nt2JaknRbMQ    
 
 **5. CONCLUSIONES**
