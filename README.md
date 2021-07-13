@@ -85,6 +85,39 @@ Capitulo 8
 
 ![17]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/E17.PNG )
 
+![Ejer 23-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2023-C8.png)
+
+![Ejer 25-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2025-C8.png)
+
+
+![Ejer 27-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2027-C8.png)
+
+![Ejer 29-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2029-C8.png)
+
+![Ejer 31-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2031-C8.png)
+
+![Ejer 33-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2033-C8.png)
+
+![Ejer 35-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2035-C8.png)
+
+![Ejer 37-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2037-C8.png)
+
+![Ejer 39-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2039-C8.png)
+
+![Ejer 41-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2041-C8.png)
+
+![Ejer 43-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2043-C8.png)
+
+![Ejer 45-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2045-C8.png)
+
+![Ejer 47-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2047-C8.png)
+
+
+
+
+
+
+
 **4. VIDEO**      
 Link del video : https://youtu.be/Nt2JaknRbMQ    
 
