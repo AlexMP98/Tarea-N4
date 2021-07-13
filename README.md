@@ -13,8 +13,10 @@ _Objetivos Específicos_
 Capítulo 7    
 ![Mapa 7]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Cap7.png )    
 ![Mapa 7.1]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Cap7_1.png )    
-
-
+![Mapa 1]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/1.PNG )
+![Mapa 2]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/2.PNG )
+![Mapa 3]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/3.PNG )
+![Mapa 4]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/4.PNG )
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**   
 Capítulo 7   
