@@ -81,10 +81,6 @@ Capitulo 8
 
 ![17]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/E17.PNG )
 
-![18]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/E18.PNG )
-
-![19]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/E19.PNG )
-
 **4. VIDEO**      
 Link del video : https://youtu.be/Nt2JaknRbMQ    
 
