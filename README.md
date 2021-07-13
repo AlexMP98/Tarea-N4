@@ -11,13 +11,21 @@ _Objetivos Específicos_
 
 
 **2. MARCO TEÓRICO**
+
 Capítulo 7    
+
 ![Mapa 7]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Cap7.png )    
-![Mapa 7.1]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Cap7_1.png )    
+![Mapa 7.1]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Cap7_1.png ) 
+
+Capítulo 8
+
 ![Mapa 1]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/1.PNG )
 ![Mapa 2]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/2.PNG )
 ![Mapa 3]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/3.PNG )
 ![Mapa 4]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/4.PNG )
+![Mapa cap 8.5-8.9](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Fun.C%20Tarea%204%20resumen%20cap%208.jpg)
+
+
 
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**   
 Capítulo 7   
@@ -76,6 +84,38 @@ Capítulo 7
 ![18]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/E18.PNG )
 
 ![19]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/E19.PNG )
+
+
+
+![Ejer 23-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2023-C8.png)
+
+![Ejer 25-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2025-C8.png)
+
+![Ejer 27-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2027-C8.png)
+
+![Ejer 29-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2029-C8.png)
+
+![Ejer 31-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2031-C8.png)
+
+![Ejer 33-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2033-C8.png)
+
+![Ejer 35-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2035-C8.png)
+
+![Ejer 37-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2037-C8.png)
+
+![Ejer 39-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2039-C8.png)
+
+![Ejer 41-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2041-C8.png)
+
+![Ejer 43-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2043-C8.png)
+
+![Ejer 45-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2045-C8.png)
+
+![Ejer 47-C8](https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/Ejer%2047-C8.png)
+
+
+
+
 
 **4. VIDEO**      
 Link del video : https://youtu.be/Nt2JaknRbMQ    
