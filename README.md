@@ -29,9 +29,10 @@ Capítulo 7
 ![29]( https://github.com/AlexMP98/Tarea-N4/blob/main/Imagenes/29.png )     
 
 **4. VIDEO**
+Link del video : https://youtu.be/Nt2JaknRbMQ    
 
 **5. CONCLUSIONES**
 
 **6. BIBLIOGRAFÍA**
-
+H. Robbins, A. y Wilhem C. Miller. (2008). Análisis de circuitos: teoría y prática,Cuarta Edición. Ciudad de México: CENGAGE Learning. 
 
