@@ -10,8 +10,10 @@ _Objetivo General_
 
 _Objetivos Específicos_
 
--Aplicar los diferentes teoremas tales como superposicion,Thevenin , entre otros, a los circuitos
--Plantear ecuaciones tanto de rama,malla y de nodos para una red en los diferentes circuitos
+-Aplicar los diferentes teoremas tales como superposicion,Thevenin , entre otros, a los circuitos.
+
+-Plantear ecuaciones tanto de rama,malla y de nodos para una red en los diferentes circuitos.
+
 -Analizar circuitos que tienen mas de una fuente de corriente.
 
 **2. MARCO TEÓRICO**
